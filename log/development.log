@@ -157,3 +157,6 @@ Processing by ArticlesController#new as HTML
   Rendering articles/new.html.erb within layouts/application
   Rendered articles/_form.html.erb (10.7ms)
   Rendered articles/new.html.erb within layouts/application (11.8ms)
+Completed 200 OK in 1461ms (Views: 1451.8ms | ActiveRecord: 0.9ms)
+
+
